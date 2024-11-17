@@ -21,7 +21,7 @@ Aplikasi Web Sistem Absensi Sekolah Berbasis RFID adalah sebuah proyek yang bert
 
 ## Kesimpulan
 
-Dengan aplikasi web sistem absensi sekolah berbasis QR code ini, diharapkan proses absensi di sekolah menjadi lebih efisien dan terotomatisasi. Proyek ini dapat diadaptasi dan dikembangkan lebih lanjut sesuai dengan kebutuhan dan persyaratan sekolah Anda.
+Dengan aplikasi web sistem absensi sekolah berbasis RFID ini, diharapkan proses absensi di sekolah menjadi lebih efisien dan terotomatisasi. Proyek ini dapat diadaptasi dan dikembangkan lebih lanjut sesuai dengan kebutuhan dan persyaratan sekolah Anda.
 
 Jangan lupa beri star ya...⭐⭐⭐
 
