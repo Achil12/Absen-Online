@@ -36,7 +36,7 @@ Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini.
 
 ## Lisensi
 
-[![GitHub license]()](./LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ikhsan3adi/absensi-sekolah-qr-code?style=for-the-badge)](./LICENSE)
 
 ## Authors
 
